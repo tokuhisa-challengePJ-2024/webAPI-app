@@ -10,8 +10,8 @@ WebAPIで取得した天気情報に応じたアバターポーズ
 
 ## ③DEMO
 https://drive.google.com/file/d/1M_aanY6G_HYIHhO7f3pGWZhYp3P4fdN6/view?usp=sharing
-（Googleドライブに実行画面の動画あげてます）
-(2回目の実行では天気情報と気温はプログラムで指定して実行しています)
+- （Googleドライブに実行画面の動画あげてます）
+- (2回目の実行では天気情報と気温はプログラムで指定して実行しています)
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
