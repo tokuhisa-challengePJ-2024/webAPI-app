@@ -13,10 +13,10 @@ public class WeatherSystem : MonoBehaviour
     public string weatherDescription;
     public float temperatureCelsius;
 
-    private string apiKey = "b8240e602cf22acf45ac121c4ea564e5"; // 必ずここに自分のAPIキーを設定してください
+    private string apiKey = "XXXXX"; // 必ずここに自分のAPIキーを設定してください
     
-    private string lat = "43.05942704012923"; // 緯度
-    private string lon = "141.37073277392628";// 経度
+    private string lat = "XXXXXXXX"; // 緯度
+    private string lon = "YYYYYYYY";// 経度
 
     void Start()
     {
